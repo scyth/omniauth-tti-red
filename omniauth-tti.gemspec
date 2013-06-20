@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'omniauth-tti/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "omniauth-tti-red"
+  spec.name          = "omniauth-tti-green"
   spec.version       = Omniauth::Tti::VERSION
   spec.authors       = ["Brian Dear"]
   spec.email         = ["superacidjax@me.com"]
