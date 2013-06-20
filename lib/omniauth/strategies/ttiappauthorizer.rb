@@ -7,7 +7,7 @@ module OmniAuth
       option :name, 'ttiappauthorizer'
 
       option :client_options, {
-        site: "http://localhost:3000",
+        site: "http://vanilla.taketheinterview.com/",
         authorize_url: "/oauth/authorize"
       }
 
